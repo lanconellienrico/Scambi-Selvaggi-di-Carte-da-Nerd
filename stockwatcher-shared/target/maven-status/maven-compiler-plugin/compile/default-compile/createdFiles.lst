@@ -1,0 +1,11 @@
+com\google\gwt\sample\stockwatcher\shared\DelistedException.class
+com\google\gwt\sample\stockwatcher\shared\StockPriceServiceAsync.class
+com\google\gwt\sample\stockwatcher\shared\StockPrice.class
+com\google\gwt\sample\stockwatcher\shared\Yugioh_card.class
+com\google\gwt\sample\stockwatcher\shared\Magic_card.class
+com\google\gwt\sample\stockwatcher\shared\StockPriceService.class
+com\google\gwt\sample\stockwatcher\shared\FieldVerifier.class
+com\google\gwt\sample\stockwatcher\shared\Card.class
+com\google\gwt\sample\stockwatcher\shared\Deck.class
+com\google\gwt\sample\stockwatcher\shared\Pokemon_card$Variants.class
+com\google\gwt\sample\stockwatcher\shared\Pokemon_card.class

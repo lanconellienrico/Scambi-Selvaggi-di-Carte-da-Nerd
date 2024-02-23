@@ -1,0 +1,13 @@
+binding: user.agent=safari
+Compiling module com.google.gwt.sample.stockwatcher.App
+   Unification traversed 22340 fields and methods and 2110 types. 2077 are considered part of the current module and 2077 had all of their fields and methods traversed.
+   Compiling 1 permutation
+      Compiling permutation 0...
+      Linking per-type JS with 2056 new/changed types.
+      Source Maps Enabled
+   Compile of permutations succeeded
+   Compilation succeeded -- 20,238s
+Linking into C:\Users\lanco\Desktop\Enrico\Documenti\Uni\Ingegneria del Software\progetto 2023\progetto\ProgettoSWENG - NON TOCCARE GIU' LE MANI!\target\gwt\codeserver\com.google.gwt.sample.stockwatcher.App\compile-2\war\app; Writing extras to C:\Users\lanco\Desktop\Enrico\Documenti\Uni\Ingegneria del Software\progetto 2023\progetto\ProgettoSWENG - NON TOCCARE GIU' LE MANI!\target\gwt\codeserver\com.google.gwt.sample.stockwatcher.App\compile-2\extras\app
+   Link succeeded
+   Linking succeeded -- 1,537s
+21,954s total -- Compile completed
