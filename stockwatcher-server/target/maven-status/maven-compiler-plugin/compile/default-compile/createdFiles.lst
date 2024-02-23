@@ -1,0 +1,13 @@
+com\google\gwt\sample\stockwatcher\server\PokemonCardSerializer.class
+com\google\gwt\sample\stockwatcher\server\CardSerializer.class
+com\google\gwt\sample\stockwatcher\server\Magic_card.class
+com\google\gwt\sample\stockwatcher\server\StockPriceServiceImpl.class
+com\google\gwt\sample\stockwatcher\server\Pokemon_card.class
+com\google\gwt\sample\stockwatcher\server\MapDBConstants.class
+com\google\gwt\sample\stockwatcher\server\Yugioh_card.class
+com\google\gwt\sample\stockwatcher\server\Pokemon_card$Variants.class
+com\google\gwt\sample\stockwatcher\server\Deck.class
+com\google\gwt\sample\stockwatcher\server\YugiohCardSerializer.class
+com\google\gwt\sample\stockwatcher\server\MagicCardSerializer.class
+com\google\gwt\sample\stockwatcher\server\StockwatcherContextListener.class
+com\google\gwt\sample\stockwatcher\server\Card.class
